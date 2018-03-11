@@ -6,7 +6,7 @@
 
 ## 2. Hooks
 
-O arquivo post-commit contém o código em bash utilizado para a criação do hook utilizado no git.
+O arquivo **post-commit** contém o código em bash utilizado para a criação do hook utilizado no git.
 
 ## 3. Screencast
 
