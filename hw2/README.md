@@ -4,7 +4,9 @@
 
 ### Conceito e Princípios 
 
-É um conceito de arquitetura que seu fundamento se baseia na disponibilização de funcionalidades implementadas através de serviços, comumente esses serviços se comunicam por interfaces acessiveis através de web services. Seus princípios se baseiam em: explicita definição de limites que determina que tudo que for necessário para a execução da funcionalidade deve ser passado quando a mesma for chamada, compartilhamento de contratos e esquemas se refere que tanto o provedor quando o consumidor devam ter tudo necessário para que forneçam ou consumam o serviço, autonomia que se referencia aos seus limites em que um serviço deva ter ser escopo bem definido e que sua comunicação deva ser feita apenas através de sua interface.
+É um conceito de arquitetura que seu fundamento se baseia na disponibilização de funcionalidades implementadas através de serviços, comumente esses serviços se comunicam por interfaces acessiveis através de web services. 
+
+Seus princípios se baseiam em: explicita definição de limites que determina que tudo que for necessário para a execução da funcionalidade deve ser passado quando a mesma for chamada, compartilhamento de contratos e esquemas se refere que tanto o provedor quando o consumidor devam ter tudo necessário para que forneçam ou consumam o serviço, autonomia que se referencia aos seus limites em que um serviço deva ter ser escopo bem definido e que sua comunicação deva ser feita apenas através de sua interface.
 
 
 ## 4. Fontes
