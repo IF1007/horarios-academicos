@@ -18,6 +18,11 @@ A migração de softwares monolícos para uma arquitetura SOA pdoe ser feita atr
 
 ### Service-oriented application
 
+
+### Relations between microservices and [Twelve-Factor](https://12factor.net/) apps
+
+Os conceito de arquitetura orientada a serviço se adequam em todos os pontos das metodologias levantadas no Twelve-Factor, durante oprocesso de desenvolvimento do serviço pode-se aplicar as metodologias do Twelve-Factor para que a aplicação se beneficie com os pontos positivos trazidos pelos conceitos de SOA bem como pela aplicação das metologias.
+
 ## Fontes
 
 1. [Vantagens e Desvantagens de SOA](https://www.devmedia.com.br/vantagens-e-desvantagens-de-soa/27437)
