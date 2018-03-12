@@ -18,10 +18,14 @@ A migração de softwares monolícos para uma arquitetura SOA pdoe ser feita atr
 
 ### Service-oriented application
 
+Arquitetura orientada a serviço trata da arquitetureação da aplicação do seu ponto de vista de infraestrutura para que as funcionalidades possam ser fornecidas através de serviços já a arquitetura orientada a aplicação trata da arquitetura interna da aplicação para que seu desenvolvimento seja de tal forma que facilite a disponibilização de suas funcionalidades através de serviços fazendo com que ambos os conceitos possam ser utilizados para arquiteturar uma aplicação tanto do ponto de vista de sua infraestrtutura como de código.
 
-### Relations between microservices and [Twelve-Factor](https://12factor.net/) apps
+
+## 2.2 Relations between microservices and [Twelve-Factor](https://12factor.net/) apps
 
 Os conceito de arquitetura orientada a serviço se adequam em todos os pontos das metodologias levantadas no Twelve-Factor, durante oprocesso de desenvolvimento do serviço pode-se aplicar as metodologias do Twelve-Factor para que a aplicação se beneficie com os pontos positivos trazidos pelos conceitos de SOA bem como pela aplicação das metologias.
+
+## 2.3 Orbitz transition to SOA
 
 ## Fontes
 
@@ -31,3 +35,4 @@ Os conceito de arquitetura orientada a serviço se adequam em todos os pontos da
 1. [service-oriented integration (SOI)](http://searchmicroservices.techtarget.com/definition/service-oriented-integration-SOI)
 1. [Service-Oriented Integration](https://msdn.microsoft.com/en-us/library/ff647687.aspx)
 1. [Legacy Evolution to SOA – Best Practices](http://www.opengroup.org/soa/source-book/l2soa/p4.htm)
+1. [Service Oriented Applications: What is SOA?](https://www.youtube.com/watch?v=w-JxEJg20Ps)
