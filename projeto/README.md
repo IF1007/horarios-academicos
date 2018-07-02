@@ -32,4 +32,4 @@ No **README** de cada repositório constam explicações mais detalhadas de cada
 |Jun-04 ~ Jun-11|Construção da aplicação de horários acadêmicos|
 |Jun-12 ~ Jun-15|Construção da aplicação de autenticação|
 |Jun-16 ~ Jun-26|Adaptando a aplicação para utilização dos containers em Docker|
-|Jun-27 ~ Jun-29|Utilizando o docker-compose para o levantamento de ambientes para os serviços|
+|Jun-27 ~ Jun-29|Utilizando o docker-compose para o levantamento dos ambientes necessários para os serviços|
