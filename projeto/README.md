@@ -33,3 +33,6 @@ No **README** de cada repositório constam explicações mais detalhadas de cada
 |Jun-12 ~ Jun-15|Construção da aplicação de autenticação|
 |Jun-16 ~ Jun-26|Adaptando a aplicação para utilização dos containers em Docker|
 |Jun-27 ~ Jun-29|Utilizando o docker-compose para o levantamento dos ambientes necessários para os serviços|
+
+### Arquitetura
+![arquitetura](/arquitetura.png)
