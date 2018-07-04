@@ -26,7 +26,7 @@ No **README** de cada repositório constam explicações mais detalhadas de cada
 
 ### Cronograma
 |#| Data   | Descrição                              |
-|:-----:|:------:|:----------------------------------------:|
+|:----------:|:-------:|:----------------------------------------:|
 |**Semana 1**|01 ~ 09|Início do projeto e elaboração conceitual da arquitetura do projeto|
 |**Semana 2**|10 ~ 16|Construção da aplicação de horários acadêmicos|
 |**Semana 3**|17 ~ 23|Construção da aplicação de autenticação|
