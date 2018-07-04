@@ -25,14 +25,12 @@ No **README** de cada repositório constam explicações mais detalhadas de cada
 - Framework laravel 5.6
 
 ### Cronograma
-| Data   | Descrição                              |
-|:------:|----------------------------------------|
-|Jun-01|Início do projeto|
-|Jun-01 ~ Jun-03|Elaboração conceitual da arquitetura do projeto|
-|Jun-04 ~ Jun-11|Construção da aplicação de horários acadêmicos|
-|Jun-12 ~ Jun-15|Construção da aplicação de autenticação|
-|Jun-16 ~ Jun-26|Adaptando a aplicação para utilização dos containers em Docker|
-|Jun-27 ~ Jun-29|Utilizando o docker-compose para o levantamento dos ambientes necessários para os serviços|
+|#| Data   | Descrição                              |
+|:-----:|:------:|:----------------------------------------:|
+|**Semana 1**|01 ~ 09|Início do projeto e elaboração conceitual da arquitetura do projeto|
+|**Semana 2**|10 ~ 16|Construção da aplicação de horários acadêmicos|
+|**Semana 3**|17 ~ 23|Construção da aplicação de autenticação|
+|**Semana 4**|24 ~ 30|Ajustes finais do projeto para utilizaçnao do Docker na criação de containers e o Docker-composer para setup de ambiente|
 
 ### Arquitetura
 ![arquitetura](/arquitetura.png)
