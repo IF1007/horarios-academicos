@@ -1,19 +1,19 @@
 # Projeto para a cadeira [IF1007](https://github.com/vinicius3w/if1007-Microservices) - Horários acadêmicos
 
 ### Descrição
-O projeto tem como intuito fornecer a grade de horários do período no qual o aluno está matriculado, para isso temos um [serviço de autenticação](https://github.com/jbsn94/apiauthescolas)
-que fornecerá todas as informações necessárias do aluno e o [serviço de horários acadêmicos](https://github.com/jbsn94/laravel-horarioaulas) que contem todos os horários dos períodos de cada curso.
+O projeto tem como intuito fornecer a grade de horários do período no qual o aluno está matriculado, para isso temos um [serviço de autenticação](https://github.com/IF1007/apiauthescolas)
+que fornecerá todas as informações necessárias do aluno e o [serviço de horários acadêmicos](https://github.com/IF1007/laravel-horarioaulas) que contem todos os horários dos períodos de cada curso.
 
 ### Equipe
 * José Barbosa da Silva Neto ([jbsn@cin.ufpe.br](mailto:jbsn@cin.ufpe.br))
 
 ### Repositórios
 - API de autenticação
-    - https://github.com/jbsn94/apiauthescolas
+    - https://github.com/IF1007/apiauthescolas
 - API dos horários acâdemicos
-    - https://github.com/jbsn94/laravel-horarioaulas
+    - https://github.com/IF1007/laravel-horarioaulas
 - Docker para levantamento dos serviços
-    - https://github.com/jbsn94/docker01
+    - https://github.com/IF1007/docker01
 
 No **README** de cada repositório constam explicações mais detalhadas de cada serviço bem como do levantamento dos serviços utilizando o *docker* e *docker-compose*.
 
